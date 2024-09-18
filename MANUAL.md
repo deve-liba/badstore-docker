@@ -39,23 +39,26 @@ Franzにも感謝します。
 
 ## 目次
 
-- [BadStore.net への更新と改善リクエスト](#badstore.net-%E3%81%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E3%81%A8%E6%94%B9%E5%96%84%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88)
+- [BadStore.net への更新と改善リクエスト](#badstorenet-への更新と改善リクエスト)
 - [クレジットと感謝](#クレジットと感謝)
-- [1. BadStore.net へようこそ！](#1-badstore.net-へようこそ！)
-    - [1.1 BadStore.net とは？](#11-badstore.net-とは？)
-    - [1.2 BadStore.net を入手する場所](#12-badstore.net-を入手する場所)
-    - [1.3 BadStore.net の目的](#13-badstore.net-の目的)
-    - [1.4 BadStore.net で提示されている脆弱性](#14-badstore.net-で提示されている脆弱性)
+- [1. BadStore.net へようこそ！](#1-badstorenetへようこそ)
+    - [1.1 BadStore.net とは？](#11-badstorenetとは)
+    - [1.2 BadStore.net を入手する場所](#12-badstorenetの入手方法)
+    - [1.3 BadStore.net の目的](#13-badstorenetの目的)
+    - [1.4 BadStore.net で提示されている脆弱性](#14-badstorenetで提示される脆弱性)
 - [2. インストール](#2-インストール)
-    - [2.1 BadStore.net のインストール](#21-badstore.net-のインストール)
-    - [2.2 BadStore.net のシステム要件](#22-badstore.net-のシステム要件)
+    - [2.1 BadStore.net のインストール](#21-badstorenetのインストール方法)
+    - [2.2 BadStore.net のシステム要件](#22-badstorenetのシステム要件)
     - [2.3 ネットワーク構成](#23-ネットワーク構成)
-    - [2.4 さらなる情報：アプリケーションセキュリティ情報とツールのリンク](#24-さらなる情報：アプリケーションセキュリティ情報とツールのリンク)
+    - [2.4 さらなる情報：アプリケーションセキュリティ情報とツールのリンク](#24-その他の情報アプリケーションセキュリティ情報およびツールのリンク)
 - [3. 重要な免責事項](#3-重要な免責事項)
 - [4. チートシート](#4-チートシート)
 - [5. ライセンス](#5-ライセンス)
-    - [5.1 GNU 一般公衆利用許諾契約書（GPL）](#51-gnu-一般公衆利用許諾契約書（gpl）)
-- [6. BadStore.net の変更履歴](#6-badstore.net-の変更履歴)
+    - [5.1 GNU 一般公衆利用許諾契約書（GPL）](#51-gnu一般公衆利用許諾契約書gpl)
+    - [5.1.1 序文](#511-序文)
+    - [5.1.2 条項](#512-コピー配布変更の条件)
+    - [5.1.3 修正](#保証の否認)
+- [6. BadStore.net の変更履歴](#6-badstorenet-変更履歴)
 
 ---
 
