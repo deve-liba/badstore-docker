@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  badstore:
+    image: jvhoof/badstore-docker
+    ports:
+      - "80:80"
+    restart: always
